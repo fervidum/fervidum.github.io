@@ -1,9 +1,10 @@
 {
   "versions": {
+    "1.0.1": "https:\/\/fervidum.github.io\/blogpermalinks\/blogbase.1.0.1.zip",
     "1.0.0": "https:\/\/fervidum.github.io\/blogpermalinks\/f9blogpermalinks.1.0.0.zip"
   },
   "latest": {
-    "version": "1.0.0",
-    "package": "https:\/\/fervidum.github.io\/blogpermalinks\/f9blogpermalinks.1.0.0.zip"
+    "version": "1.0.1",
+    "package": "https:\/\/fervidum.github.io\/blogpermalinks\/blogbase.1.0.1.zip"
   }
 }
